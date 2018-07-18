@@ -4,7 +4,7 @@
   },
   "name": "zerotoblockchain-network",
   "version": "1.0.0",
-  "description": "Zero to Blockchain tutorial network",
+  "description": "Blockchain POC network",
   "networkImage": "https://hyperledger.github.io/composer-sample-networks/packages/basic-sample-network/networkimage.svg",
   "networkImageanimated": "https://hyperledger.github.io/composer-sample-networks/packages/basic-sample-network/networkimageanimated.svg",
   "scripts": {
@@ -22,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/rddill-IBM/ZeroToBlockchain"
+    "url": "https://github.com/raman2072/BlockChainPOC.git"
   },
   "keywords": [
     "zero",
@@ -31,7 +31,7 @@
     "composer",
     "hyperledger"
   ],
-  "author": "Bob Dill, IBM Distinguished Engineer",
+  "author": "Seetha",
   "license": "Apache-2.0",
   "devDependencies": {
     "extend": "",
