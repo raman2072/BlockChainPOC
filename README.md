@@ -22,3 +22,19 @@ The Finance Company can see all what is going on between these different partici
 See in order to write all the logic of who can do what and who can see what in any other traditional existing systems would be to write lots of code. If you see in this platform how easy it is to get such complicated state, assets and transaction tracking can be achieved with a server side foot print of just 35Kbs(yes kbs, not Mbs, not Gbs).
 
 This is why I am in love with the private permissioned blockchain using PBFT as it's consensus algorithm.
+
+Some more useful links about the Hyperledger-Fabric & Hyperledger-Composer projects
+
+Building your very first business network : http://hyperledger-fabric.readthedocs.io/en/latest/build_network.html
+
+Writing your very first app : http://hyperledger-fabric.readthedocs.io/en/latest/write_first_app.html
+
+What is Hyperledger-Composer? https://hyperledger.github.io/composer/latest/introduction/introduction
+
+Typical Hyperledger Composer Solution Architecture :
+https://hyperledger.github.io/composer/latest/introduction/solution-architecture.html
+
+Key Concepts in Hyperledger Composer: https://hyperledger.github.io/composer/latest/introduction/key-concepts.html
+
+
+
